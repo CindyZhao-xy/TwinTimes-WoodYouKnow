@@ -19,7 +19,7 @@ This desktop application implemented will:
 
 The scope of this project is as follows: keyword query, produce graphs and reports, display specific item details, sum calculation of item costing, documentation of all woodworking tools description, a listing of woodworking tools, linked pictures, and application guides manual for operators. The application will not include features such as purchase and payment. Interpretation of literature content attributable to the source. The finished application will be given to Mr. Donaldson to address the current issues being faced. This project is not transferred to the public domain and will not be used in any commercial capacity.
 
-![picture alt](https://github.com/CindyZhao-xy/TwinTimes-WoodYouKnow/blob/main/fd1.png/250x150 "Title is optional")
+![https://github.com/CindyZhao-xy/TwinTimes-WoodYouKnow/blob/main/fd1.png](https://github.com/CindyZhao-xy/TwinTimes-WoodYouKnow/blob/main/fd1.png/250x150 "Title is optional")
 
 **In order to run the application, navigate to the win-unpacked subfolder via **TwinTimes\product-app\dist\win-unpacked** **and double click on the 'twintimes-app' application file to launch the application. **
 
